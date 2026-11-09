@@ -1,0 +1,50 @@
+{
+  "pagine": 34,
+  "html": {
+    "guida-docente.html": {
+      "collegamenti_locali_verificati": 3
+    },
+    "index.html": {
+      "collegamenti_locali_verificati": 53
+    },
+    "libro.html": {
+      "collegamenti_locali_verificati": 69
+    }
+  },
+  "sha256_immagini": {
+    "immagini-libro/pagina_32.png": "a72d1b73f92ba0e7668ad3f3425e48c7367d78fcec0fb2580a7032ff8b579467",
+    "immagini-libro/pagina_33.png": "bbf89c27fcc92c0f94bc21652fd6223056031243ba44eb38e7880c2dea1fb6b6",
+    "immagini-libro/pagina_34.png": "3606ca770b607bda835cebdad3033291469fd6bbc6f0bd6bc042aa362e15a935",
+    "immagini-libro/pagina_35.png": "8d4f7b903e149ce346593228a09b79ad47e73b60184bc5762df91d1dedab0c39",
+    "immagini-libro/pagina_36.png": "3498ea08727a5a7a372376ab4dc3cdcb8fc9a35aa0b1a427afd5cff961160fac",
+    "immagini-libro/pagina_37.png": "b595d47f20e038b6d4b5054eed74d240542764247891bf9e9f8b72e84186edc8",
+    "immagini-libro/pagina_38.png": "136250a88f909536ee650c24250fd45f180ec02b262870a01ae52e18af708829",
+    "immagini-libro/pagina_39.png": "f8ad6d9ceb23b882af8d46ce6ff3276be2dfd2761787a68a806af4b9df23efca",
+    "immagini-libro/pagina_40.png": "979897a6a8b68489534ed034f80a9bbc25839dea8d4ad7423cd82a78702209f5",
+    "immagini-libro/pagina_41.png": "f56e72ed277f08b5095fbef038f1a9d12c1e5a94552f5bc964bd9becd04d9e1a",
+    "immagini-libro/pagina_42.png": "083163c49fa6c53cef9f42fb979efe55c34d3081791a635a6f5b371e8b633290",
+    "immagini-libro/pagina_43.png": "de927a904eafff90d541d6d08676940efa4d519afa5d61f19e1f96ba4fdf722b",
+    "immagini-libro/pagina_44.png": "51db98915d883191df76fa11cf814bb7568a9b2251e7d66258d11bd71a14b61f",
+    "immagini-libro/pagina_45.png": "adc83caacdb7feca7e0a9171c85d28fbc2bb5eefab936f7aba6518a7a56b3a76",
+    "immagini-libro/pagina_46.png": "f15ad54f70e88e762ed89d3f7f07706b17b63b40454fa72da8092384bb51163e",
+    "immagini-libro/pagina_47.png": "c3db459720bc43c88a425a2a7c44a166824932ee86d31ff9c46a846f5edb7c4e",
+    "immagini-libro/pagina_48.png": "ba588c0c93b08d860bc2648a3e79ad177f0b68c2fdb9ee9e0119ad8ac7dc6df3",
+    "immagini-libro/pagina_49.png": "86c770b15d620605922f6d23dbd80a409611d20bbcbe0d291df10c74b7b12c44",
+    "immagini-libro/pagina_50.png": "1067537922482950acd781f3058b9547d6849718ca8d58fc3abe87c3ed4ac344",
+    "immagini-libro/pagina_51.png": "bad710ecd8b1b6e8551c7d5ef87760a6e645f51500fa121c63cb7fc88ed4c221",
+    "immagini-libro/pagina_52.png": "a8e239a4d5ec7a852a91fe1bc4a6ea3214b87fb8558b17190b9b338dd9ccbec3",
+    "immagini-libro/pagina_53.png": "ef28bac724c282d1a912f74507dd6a54eb7fb781a6456096974f2cac466a73fe",
+    "immagini-libro/pagina_54.png": "111daa07782a4cb8d4f2a2b3d7a27562fd54628f4983cfe962d388153f723c23",
+    "immagini-libro/pagina_55.png": "9379acc785c0a6bbe537a0f99597f3c1ac16a8d1ee48e678608f508b2957c767",
+    "immagini-libro/pagina_56.png": "ecd85eba099b391c9339c4a9018119dc715a91468cfe8a880c629e67905b3522",
+    "immagini-libro/pagina_57.png": "f075980b39992bb3cd180dcdb9eb6705c965e63311facb75ba32376e9fa5f02e",
+    "immagini-libro/pagina_58.png": "640cdf935d3867d460560da5632694381e5f6e2473c53da5b07e1a0dcefa71dc",
+    "immagini-libro/pagina_59.png": "15bf9b8fba90c2c12d8b92a9ad949adab68c0c0fefcabb93ea703f475910829c",
+    "immagini-libro/pagina_60.png": "e29e6ee8b76f135825c341cd135427bfa2cc3e1b85c311787ba7dd68b794bd84",
+    "immagini-libro/pagina_61.png": "66f29f87c9a0beca7b3179d71f40db49a1f651d8fddf7562465cb6f0e73d4d2f",
+    "immagini-libro/pagina_62.png": "b73af9a92a385407c807e4bb52aa55c1cf218bd25af0c7c93ec6dde8d41fa5a3",
+    "immagini-libro/pagina_63.png": "f1b549e92d0e172ca907b0cbf1037142ccd6dc98510379796f8a93b2f04bef0d",
+    "immagini-libro/pagina_64.png": "3098ceacd0dd2feaaaed6e7853c086e8102c72898d91f70114a1373989c1f035",
+    "immagini-libro/pagina_65.png": "fe5bf7fce2c7117f39a9110cee073e9a68be73901bcf49b24a1fc18798e65e41"
+  }
+}
